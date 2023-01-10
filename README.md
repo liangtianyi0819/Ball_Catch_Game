@@ -1,6 +1,6 @@
-# M4OEP-Graphics1-tliang2
-###### name: Tianyi Liang
-This final project is a succession of the program I wrote on Module 4. Users will control a board to catch balls popping from 
+# Ball Catching Game
+###### Tianyi Liang
+Users will control a board to catch balls popping from 
 the top of the screen. When a ball is successfully caught, the board will be extended and the 
 dropping speed will be increased. A user wins the game when they have 20 combos 
 If one ball is missing, the board will shorten to default length. If the board is currently default
