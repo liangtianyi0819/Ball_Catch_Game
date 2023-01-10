@@ -26,9 +26,3 @@ The bomb is drawn using 12 different circles and 4 rectangles.
 In order to draw the skeleton arm icon in the center of the bomb, I added a rotation method to the Rect class. 
 This method uses trigonometric functions to draw the crosses skeleton arms after rotation. The required parameter is 
 rotation angle ( By using radian).
-
-## Concepts used
-The different shape classes are connected ny is-A relationship which is a concept coming from Module 2. There are also different 
-versions of draw function, which is implemented in Shape class as a pure virtual function. The whole program is written with visual 
-elements coming from Module 4. There are mouse, cursor, keyboard normal and special key input implemented. All visual elements are associated 
-with C++ class objects. 
